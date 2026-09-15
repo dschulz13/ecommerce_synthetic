@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# ecommerce_synthetic
+
+The structure of the database is shown in the following figure.
+
+```{r, echo = FALSE, out.width = "70%", out.height = "70%", fig.align='center'}
+knitr::include_graphics("Database Structure ecommerce_synthetic.png")
+```
+

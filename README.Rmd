@@ -9,9 +9,13 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
+
+
 ```
 
 # ecommerce_synthetic
+
+## Structure
 
 The structure of the database is shown in the following figure.
 

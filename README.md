@@ -3,6 +3,10 @@
 
 # ecommerce_synthetic
 
+## Setting
+
+The SQL database `ecommerce_synthetic` is a synthetically created database using ChatGPT. It contains sales (and related) information from a fictional online music equipment retailer.
+
 ## Structure
 
 The structure of the database is shown in the following figure.
